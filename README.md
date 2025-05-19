@@ -1,78 +1,37 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Getting Started with Create React App
+# Student Attendance Management System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+The **Student Attendance Management System** is a full-stack web application designed to simplify and digitize the attendance tracking process in educational institutions. Built using **ReactJS** for the frontend, **Spring Boot** for the backend, and **PostgreSQL** for the database, this system enables teachers to mark attendance and to generate reports efficiently.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+##  Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Frontend:** ReactJS, Bootstrap, CSS
+- **Backend:** Java Spring Boot (REST API)
+- **Database:** PostgreSQL
+- 
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+##  Features
 
-### `npm test`
+###  For Teachers
+- Mark attendance for students by course and date
+- View class-wise attendance history
+- Edit mistakenly entered records
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+###  For Admin
+- Manage users
+- Assign teachers to courses
+- Generate reports for attendance statistics
+- Apply filters for attendance analytics (by course, student, date)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Screenshots
+![dashboard](https://github.com/user-attachments/assets/e3c955c5-3a1d-43b9-9d24-a6744dad7946)
+![marking attendance](https://github.com/user-attachments/assets/63dc1717-f960-4d91-970b-09b657d443a4)
+![add attendance](https://github.com/user-attachments/assets/aca27b9d-bd16-4910-a808-ea7f9e5c0ad1)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# attendance_app
->>>>>>> 6a4ba068813a008d8d2465056fa4f0c3ce6c7f81
-=======
-# attendanceApp
->>>>>>> 4f285cd2df9006566934476afed2a5ab3abd47eb
